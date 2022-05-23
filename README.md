@@ -1,4 +1,3 @@
-![My Cover Photo](https://media-exp1.licdn.com/dms/image/C5616AQG_TzbqmhEAhg/profile-displaybackgroundimage-shrink_350_1400/0?e=1608768000&v=beta&t=U6nEec-HPbkTBhNy5DttHCBiVzEBOlWJOyA-n7u-He0)
 ## Hi, I'm Mikey 👋
 I'm a software engineer at [Nokē](https://noke.com/), one of the fastest growing startups in the country.  I love the combination of creative skills combined with logical problem solving used in coding and the feeling of constantly studying, learning, and regularly growing my knowledge. 📚
 
