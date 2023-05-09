@@ -1,5 +1,5 @@
 ## Hi, I'm Mikey 👋
-I'm a software engineer at [Nokē](https://noke.com/), one of the fastest growing startups in the country.  I love the combination of creative skills combined with logical problem solving used in coding and the feeling of constantly studying, learning, and regularly growing my knowledge. 📚
+I'm a software engineer at [Angel Studios](https://angel.com/).  I love the combination of creative skills combined with logical problem solving used in coding and the feeling of constantly studying, learning, and regularly growing my knowledge. 📚
 
 ## About me
 
