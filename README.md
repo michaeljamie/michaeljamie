@@ -8,7 +8,6 @@ When I’m not working, I also enjoy spending time with my wife and son, coding,
 ## Get in touch
 
 <p align="left">
-	<a href="https://github.com/michaeljamie"><img  src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
   <a href="https://www.linkedin.com/in/michaeljamiejohnston/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://dev.to/michaeljamie"><img src="https://img.shields.io/badge/Dev.to--_.svg?style=social&logo=dev.to" alt="Dev.to"></a>
 </p>
