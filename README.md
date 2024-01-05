@@ -3,7 +3,7 @@ I'm a software engineer at [Angel Studios](https://angel.com/).  I love the comb
 
 ## About me
 
-When I’m not working, I also enjoy spending time with my wife and son, coding, traveling ✈️, hiking, mountain biking, camping ⛺, outdoor photography, kayaking, cooking, gaming 🎮, and being around friends and family.
+When I’m not working, I also enjoy spending time with my wife and kids, coding, traveling ✈️, hiking, mountain biking, camping ⛺, outdoor photography, kayaking, cooking, gaming 🎮, and being around friends and family.
 
 ## Get in touch
 
